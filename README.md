@@ -70,7 +70,8 @@ Identified sales trends over time.
 Key finding:
 - November 2011 generated the highest monthly revenue.
 
-![Monthly Revenue](images/monthly_revenue.png)
+<img width="1015" height="504" alt="monthly_revenue" src="https://github.com/user-attachments/assets/58463605-a163-4d48-8368-9e6c95c2c03b" />
+
 
 ---
 
@@ -81,7 +82,7 @@ Identified top-performing markets.
 Key finding:
 - United Kingdom contributed the majority of revenue.
 
-![Country Revenue](images/country_revenue.png)
+<img width="833" height="545" alt="country_revenue" src="https://github.com/user-attachments/assets/22e2622a-963d-41a1-b759-d20c6011cb92" />
 
 ---
 
@@ -92,7 +93,7 @@ Analyzed products based on revenue and quantity sold.
 Key finding:
 - PAPER CRAFT, LITTLE BIRDIE was the highest revenue-generating product.
 
-![Product Revenue](images/product_revenue.png)
+<img width="1118" height="546" alt="product_revenue" src="https://github.com/user-attachments/assets/a6efd2ff-df89-4c6c-9b8e-cfbaca653428" />
 
 ---
 
@@ -103,7 +104,8 @@ Analyzed customer spending behaviour.
 Key finding:
 - A small group of customers contributed significantly to revenue.
 
-![Customer Revenue](images/customer_revenue.png)
+<img width="882" height="469" alt="customer_revenue" src="https://github.com/user-attachments/assets/765c973a-9823-4153-a5b7-5f074ed1c5a5" />
+
 
 ---
 
